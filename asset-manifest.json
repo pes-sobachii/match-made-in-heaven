@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/match-made-in-heaven/static/css/main.ae88b55c.css",
-    "main.js": "/match-made-in-heaven/static/js/main.0a43dc5b.js",
+    "main.css": "/match-made-in-heaven/static/css/main.f34ba70d.css",
+    "main.js": "/match-made-in-heaven/static/js/main.22a25d19.js",
     "static/media/image-2022-06-09-014108890_N4JZByR7.png": "/match-made-in-heaven/static/media/image-2022-06-09-014108890_N4JZByR7.1c72671230f6116293ef.png",
+    "static/media/photo_2021-05-09_12-46-07.jpg": "/match-made-in-heaven/static/media/photo_2021-05-09_12-46-07.1a984475ee9f952e2849.jpg",
     "static/media/ілябля.jpg": "/match-made-in-heaven/static/media/ілябля.7d5ccf3cf59ca5715888.jpg",
     "index.html": "/match-made-in-heaven/index.html",
-    "main.ae88b55c.css.map": "/match-made-in-heaven/static/css/main.ae88b55c.css.map",
-    "main.0a43dc5b.js.map": "/match-made-in-heaven/static/js/main.0a43dc5b.js.map"
+    "main.f34ba70d.css.map": "/match-made-in-heaven/static/css/main.f34ba70d.css.map",
+    "main.22a25d19.js.map": "/match-made-in-heaven/static/js/main.22a25d19.js.map"
   },
   "entrypoints": [
-    "static/css/main.ae88b55c.css",
-    "static/js/main.0a43dc5b.js"
+    "static/css/main.f34ba70d.css",
+    "static/js/main.22a25d19.js"
   ]
 }
